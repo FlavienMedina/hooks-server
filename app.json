@@ -1,0 +1,10 @@
+{
+  "name": "Hook Heroku Server",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/FlavienMedina/hooks/server",
+  "keywords": [
+    "node",
+    "express",
+    "heroku"
+  ]
+}
