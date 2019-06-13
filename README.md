@@ -1,1 +1,1 @@
-# hooks-server
+# server
